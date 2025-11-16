@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+  border: 1px solid red;
+  padding: 10px 30px;
+}
+body {
+  background-color: #fffaf1;
+}

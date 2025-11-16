@@ -6,9 +6,6 @@ const page = () => {
     <div className={scss.home}>
       <div className="container">
         <div className={scss.content}>
-          <div className={scss.menu}>
-            <IoMenu fontSize={40} />
-          </div>
           <div className={scss.section}>
             <h1>
               <span>Holdy</span> - храни самые ценные моменты
